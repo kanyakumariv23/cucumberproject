@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="demowebshoprun" project="cucumber" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="RunnerPack.demowebshoprun" time="0.0">
+    <testsuite name="Feature: Login to Demowebshop site" time="0.0">
+      <testcase name="successful login to demo webshop" classname="Login to Demowebshop site" time="0.0"/>
+    </testsuite>
+  </testsuite>
+</testrun>

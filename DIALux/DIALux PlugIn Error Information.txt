@@ -1,0 +1,39 @@
+
+
+
+--------------------------------------------------------------------------------
+
+PlugIn Log for DIALux20.PlugIn:UserDatabase
+
+Date: 10/29/19	Time: 09:47:17
+
+Log Version 1.2
+
+Error in dialux://C:/ProgramData/DIALux/UserDatabase/Bin.opk!/1033.htm
+
+errorLine : 928
+errorCharacter : 163
+errorCode : 0
+errorMessage : 'Listfound_click' is undefined
+errorUrl : dialux://C:/ProgramData/DIALux/UserDatabase/Bin.opk!/1033.htm
+
+919	</div>
+920	
+921	<div id=t7 style="Z-INDEX: 1; LEFT: 30px; VISIBILITY: hidden; WIDTH: 300px; POSITION: absolute; TOP: 130px; HEIGHT: 20px; ZINDEX: 9">
+922	</div>
+923	
+924	
+925	<div id=t10 style="Z-INDEX: 1; LEFT: 30px; VISIBILITY: hidden; WIDTH: 276px; POSITION: absolute; TOP: 100px; HEIGHT: 18px; ZINDEX: 24" >
+926	</div>
+927	
+928	ERROR--><div id=L1 style="Z-INDEX: 120; LEFT: 350px; WIDTH: 70px; POSITION: absolute; TOP: 80px; HEIGHT: 75px"><select size=5 id=Listfound style="WIDTH: 240px;" onclick="Listfound_click"><option></option></select>
+929	</div>
+930	
+931	<div id=L2 style="Z-INDEX: 121; LEFT: 350px; POSITION: absolute; TOP: 305px;">
+932	</div>
+933	
+934	<div id=L3 style="FONT-SIZE: 16px; LEFT: 350px; POSITION: absolute; TOP:  60px">
+935	<A id=TextGefundene></A>
+936	</div>
+937	
+

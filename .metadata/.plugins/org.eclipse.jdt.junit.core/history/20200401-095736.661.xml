@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="runner" project="cucumber" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="cucumber.cucumber.runner" time="0.0">
+    <testsuite name="Feature: Login to Demowebshop site" time="0.0">
+      <testcase name="successful login to demo webshop" classname="Login to Demowebshop site" time="0.0">
+        <skipped>io.cucumber.junit.UndefinedThrowable: The step "user launched chrome browser" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "user provides the valid url" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "user clicks on login hyperlink" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "user provides valid Email and Password" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "he clicks on Login button" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "user shall be able to view the homepage" is undefined&#13;
+&#13;
+io.cucumber.junit.UndefinedThrowable: The step "see the welcome message" is undefined&#13;
+&#13;
+</skipped>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>
